@@ -6,3 +6,8 @@ Author: Elena Christensen;
 body {
 	background-color: black;
 }
+
+header {
+	background-color: white;
+	height: 100px;
+}
