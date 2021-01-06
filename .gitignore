@@ -105,5 +105,5 @@ dist
 
 /vendor/
 /wordpress/
-/wp-content/
+#/wp-content/
 nginx-wordpress.conf
